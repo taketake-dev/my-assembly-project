@@ -1,0 +1,7 @@
+.archive/
+.private/
+
+bin/
+obj/
+*.a
+*.o
